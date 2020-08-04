@@ -1,0 +1,290 @@
+/**{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}*/
+
+.header{
+    width: 100%;
+    height: 800px;
+    background-image: url(Layer28.png);
+    margin-bottom: -30px;
+}
+
+.nav .menu-bar{
+    width: 100%;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.712);
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+h6{
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.garis{
+    border-left: 2px red solid;
+    height: 70px;
+    width: 1px;
+}
+
+h5{
+    font-size: 15px;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.aha1 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.menu-bar li{
+    float: left;
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
+
+a{
+    color: black;
+}
+
+.box{
+    width: 350px;
+    height:140px;
+    background: rgba(102, 62, 34, 0.774);
+    margin-top: 350px;
+    margin-left: 100px;
+    padding: 20px;
+    color: white;
+}
+
+.box1{
+    background-color: #9c1c1f;
+    padding: 8px;
+    margin-left: 300px;
+    font-size: 9px;
+}
+
+.box2{
+    background-color: #6c0e10;
+    padding: 8px;
+    /* margin-left: 300px; */
+    font-size: 9px;
+}
+
+
+.title{
+    padding-top: 80px;
+    font-size: 35px;
+    line-height: 33px;
+    color: #ed1b23;
+    font-family: "Trajan Pro";
+    text-align: center;
+
+}
+
+.subtitle{
+    padding-top: 7px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Trajan";
+    text-align: center;
+}
+
+.text{
+    font-size: 31px;
+    line-height: 45px;
+    color: #cb0008;
+    font-weight: 400;
+    font-family: "Amiri";
+    text-align: center;}
+
+.parag{
+    font-size: 17px;
+    line-height: 27px;
+    color: #595959;
+    font-weight: 400;
+    font-family: "Amiri";
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.cncp{
+    background-color: gainsboro;
+    height: 900px;
+    margin-bottom: -20px;
+    /*box-shadow: 7px 7px 10px 15px;*/
+    /*box-shadow: 7px 7px 10px;*/
+    box-shadow: 7px 7px 10px;
+}
+
+.a{
+    position: relative;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.b{
+    position: relative;
+    color: maroon;
+    left: 4%;
+    margin-top: 75px;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.d{
+    color: grey;
+    top: 250px;
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.img1{
+    width: 370px;
+    margin-left: 600px;
+    margin-top: -290px;
+}
+
+.e{
+    color: maroon;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.be {
+    margin-top: -20px;
+}
+
+.be1 {
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+.img2{
+    position: relative;
+    width: 370px;
+    float: left;
+    margin-top: -255px;
+    margin-left: 40px;
+}
+
+.th1 {
+    font-family: "Times New Roman", Times, serif;
+    color: maroon;
+    font-size: 37px;
+}
+
+.tha2 {
+    font-weight: bold;
+}
+
+.had {
+    font-family: "Times New Roman", Times, serif;
+    color: grey;
+    font-size: 18px;   
+}
+
+.ttle {
+    font-size: 16px;
+}
+.atas {
+    background-color: #6c0e10;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    /*margin-top: 25px;*/
+}
+.judul {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.c1 {
+    font-family: 'Amiri', italic;
+    text-align: left;
+    margin-top: 180px;
+}
+
+.judul2 {
+    background-image: url("./img/bgk.jpg");
+    /*background-repeat: no-repeat;*/
+    /*background-size: 200%;*/
+    margin-top: 100px;
+    height: 235px;
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+    text-align: center;
+}
+.ha1 {
+    font-weight: bold;
+    font-size: 27px;
+}
+.ha5 {
+    font-size: 27px;
+    margin-top: 32px;
+
+}
+.pe {
+    font-weight: bold;
+    font-size: 14px;
+}
+.t {
+    margin-top: 30px;
+    margin-left: 355px;
+    font-size: 20px;
+    /*font-weight: bold;*/
+}
+.tb2 {
+    margin-top: -64px;
+    margin-left: 270px;
+    /*font-weight: bold;*/
+}
+.t1 {
+    margin-top: -100px;
+}
+
+/*.m {
+    background-color: #6c0e10;
+    margin-top: -50px;
+    font-size: 10px;
+    color: #6c0e10;
+}*/
+
+.lg {
+    margin-left: 50px;
+    width: 400px;
+}
+
+.btm1 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 12px;
+    margin-left: 50px;
+    margin-bottom: -3px;
+}
+.btm2 {
+    margin-right: 50px;
+    font-size: 12px;
+    margin-top: -60px;
+}
+
+.bld {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}
+
+.l {
+    width: 10px;
+}
+.cncpj {
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
